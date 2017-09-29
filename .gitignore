@@ -1,0 +1,11 @@
+build/
+build.lib/
+project/boot
+src/main/parser/onion
+target/
+.idea/
+.idea_modules/
+.cache
+.build.sbt.un~
+
+.settings
